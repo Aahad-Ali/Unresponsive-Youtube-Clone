@@ -1,0 +1,102 @@
+li#a{
+    display: inline-block;
+    /* margin :  20px; */
+    position: relative;
+    bottom: 28px;
+    
+    
+
+}
+li#b{
+    display: inline-block;
+    margin: 10px;
+    font-size: larger;
+    position: relative;
+    bottom: 8px;
+    /* color: white;  */
+
+}
+li#c{
+    display: inline-block;
+    margin-left: 10px;
+    padding-left: 350px;
+    position: relative;
+    bottom: 30px;
+    
+     
+   
+}
+li#d{
+    display: inline-block;
+    position: relative;
+    bottom: 20px;
+    
+    
+
+}
+li#e{
+    display: inline-block; 
+    margin-left: 430px;
+    position: relative;
+    bottom: 25px;
+}
+li#f{
+    display: inline-block;
+    margin-left: 20px;
+    position: relative;
+    bottom: 25px;
+
+}
+li#g{
+    display: inline-block;
+  margin-left: 20px;
+    font-size: x-large;
+    color: blue;
+    position: relative;
+  bottom: 33px;
+  
+    
+
+}
+input{
+    width: 600px;
+    height: 36px;
+    border-color: black;
+    border-radius: 30px;
+    background-color: rgb(236, 236, 236);
+}
+
+::placeholder{
+    padding-left: 10px;
+}
+fieldset{
+   margin-right: 1670px;
+   border-radius: 0px;
+   border: 1px;
+   /* background-color: darkgray; */
+}
+#def{
+    position: relative;
+    left: 220px;
+    bottom: 700px;
+}
+/* body{
+    background-color: black
+} */
+#ghi{
+    
+    border-radius: 20px;
+}
+.nav{
+
+    display: inline-block;
+    /* padding-left: 20px; */
+    background-color: rgb(189, 188, 188);
+    padding: 10px;
+    border-radius: 20px;
+   
+    
+}
+#navbar{
+    margin-left: 250px;
+}
